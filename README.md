@@ -1,12 +1,16 @@
 ## Mariami Bostashvili
 
-Frontend developer based in Batumi, Georgia. I build web apps with **JavaScript, React and TypeScript**, and lately I've been working on developer tooling and AI-assisted workflows.
+Frontend developer from Batumi, Georgia 🇬🇪
+
+I started where everyone starts — plain HTML and CSS, pixel-chasing a Figma file at 2am. I kept going, and somewhere along the way I stopped only building pages and started building the tools I wished I'd had while learning: exam-prep platforms, homework dashboards for students, and now a runtime layer that gives AI coding agents actual memory.
+
+I like the unglamorous parts of this job. Making a layout behave on a 360px screen. Naming things so the next person doesn't have to guess. Writing a README someone can actually follow.
 
 🔧 **Stack** — JavaScript · TypeScript · React · HTML/CSS · Vite · Node.js · Git
 
-🚀 Currently building **AI-ria**, **Beacon SEO**, **DocPilot** and **PitForge**
+🚀 **Currently building** — AI-ria, Beacon SEO, DocPilot and PitForge
 
-📫 Open to frontend developer roles
+📫 **Open to frontend developer roles** — say hi, I answer
 
 ### Projects
 
