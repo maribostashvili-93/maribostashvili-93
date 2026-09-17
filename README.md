@@ -18,11 +18,15 @@ Every agent starts from zero: it re-reads the repo, re-derives the architecture,
 **[Beacon SEO](https://github.com/maribostashvili-93/Beacon-seo)** — *don't just tell me what's wrong, fix it*
 Point it at a URL. It runs 35 technical and 8 keyword checks, cites the source line number for every finding, explains it in plain language, then generates the fix in the idiom of your actual framework. Next.js 15 dashboard, a `beacon` CLI with a CI gate, an MCP server, and Search Console / GA4 / Yandex integrations.
 
-**[DocPilot](https://github.com/maribostashvili-93/DocPilot)** — multi-tenant documentation platform
-Ship the same reference material to staff, partners and customers without a separate site per audience. Reader with `⌘K` full-text search and a side-rail TOC, a role-based CMS (admin / editor / reviewer / viewer / partner), per-company branded landings. SQLite-backed, one Node process serves API + SPA.
+### Working inside other people's codebases
 
-**[PitForge](https://github.com/maribostashvili-93/PitForge)** — Figma → SEO-clean landing pages
-An AI assistant builds the site from a Figma file; you edit copy, images, styling-within-limits and translations in a visual studio, then export a deploy-ready static site that holds up from 320px to 3200px.
+Two projects I forked to learn from — read the architecture, took it apart, then shipped features into it. This is where I practise reading code I didn't write.
+
+**[DocPilot](https://github.com/maribostashvili-93/DocPilot)** — multi-tenant documentation platform *(fork of [EarendilM83/DocPilot](https://github.com/EarendilM83/DocPilot))*
+31 commits across phases 7 and 8: a localization-ops backend, a reader feedback widget with an analytics events backend, Slack / GitHub / Jira integrations plus a public export API, and AI assist with human review.
+
+**[PitForge](https://github.com/maribostashvili-93/PitForge)** — Figma → SEO-clean landing pages *(fork of [EarendilM83/PitForge](https://github.com/EarendilM83/PitForge))*
+Added a secure static-site ZIP importer and GitHub site import that turns an existing site into editable sections in the visual studio.
 
 ### Course & practice work
 
